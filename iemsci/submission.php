@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" >
     <link rel="stylesheet" href="css/conference.css">
     <link rel="shortcut icon" href="images/favicon.ico">
-   
+   <!--->
 
     <!-- Add custom CSS here -->
     <style>
