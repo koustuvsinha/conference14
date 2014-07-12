@@ -6,14 +6,14 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="description" content="1st International Conference on Business & Management, organized by Institute of Engineering & Management, Kolkata on 30-31st August, 2014">
       <meta name="author" content="Institute of Engineering & Management">
-      <meta property="og:title" content="IEM MANCON 2014" />
+      <meta property="og:title" content="IEM BIZCON 2014" />
       <meta property="og:description" content="1st International Conference on Business & Management, organized by Institute of Engineering & Management, Kolkata on 30-31st August, 2014" />
       <!--<meta property="og:image" content="http://www.iemculturalfest.com/images/iemcf2.jpg" />
       <meta property="og:image:width" content="960" />
       <meta property="og:image:height" content="590" />
       <meta property="og:url" content="http://www.iemculturalfest.com"/>-->
-      <meta name="keywords" content="iem,iem conference,iembiz 2014,iembiz2014,iemmancon 2014,business,management,iem mancon 2014"/>
-      <title>IEM MANCON '14</title>
+      <meta name="keywords" content="iem,iem conference,iembiz 2014,iembiz2014,iembizcon 2014,business,management,iemcon, iem bizcon 2014"/>
+      <title>IEM BIZCON '14</title>
 
 
       <!-- Bootstrap core CSS -->
@@ -44,13 +44,13 @@
                         <div class="panel-heading">
                           <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                              Brief Overview of IEM MANCON 2014
+                              Brief Overview of IEM BIZCON 2014
                             </a>
                           </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse">
                           <div class="panel-body">
-                              <h3>IEM MANCON 2014</h3>
+                              <h3>IEM BIZCON 2014</h3>
                               <h4>1st International Conference on Business & Management</h4>
                               <h5>Date : 30-31 August, 2014</h5>
                               <h5>Venue : Science City, Kolkata, India</h5>
@@ -84,14 +84,14 @@
                         <div class="panel-heading">
                           <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                              Technical Programs of IEM MANCON 2014
+                              Technical Programs of IEM BIZCON 2014
                             </a>
                           </h4>
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse">
                           <div class="panel-body">
                               <ul>
-                                  <li><a href="#" target="_blank">Click here to download the Technical Session Details of IEM MANCON 2014</a>.</li>
+                                  <li><a href="#" target="_blank">Click here to download the Technical Session Details of IEM BIZCON 2014</a>.</li>
                                        
                               </ul>
                               

@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="5th International Conference on Electronics Engineering & Computer Science, organized by Institute of Engineering & Management, Kolkata on 28-29th August, 2014">
     <meta name="author" content="Institute of Engineering & Management">
-    <meta property="og:title" content="IEMSCI 2014" /> 
+    <meta property="og:title" content="SCICON 2014" /> 
     <meta property="og:description" content="5th International Conference on Electronics Engineering & Computer Science, organized by Institute of Engineering & Management, Kolkata on 28-29th August, 2014" />  
     <!--<meta property="og:image" content="http://www.iemculturalfest.com/images/iemcf2.jpg" />
     <meta property="og:image:width" content="960" />  
     <meta property="og:image:height" content="590" />
     <meta property="og:url" content="http://www.iemculturalfest.com"/>-->
-    <meta name="keywords" content="iem,IEM Science Conference,IEMSCI 2014,IEMSCI2014,electronics,computer,engineering,IEM Science Conference 2014"/>
+    <meta name="keywords" content="iem,IEM Science Conference,IEMSCI 2014,SCICON2014,electronics,computer,engineering,IEM Science Conference 2014"/>
     <title>IEM Science Conference 2014</title>
 
     <!-- Bootstrap core CSS -->
@@ -36,7 +36,7 @@
     <div class="container main_body">
         <div class="row">
             <div class="col-md-9">
-                <h2>Welcome to IEMSCI 2014</h2>
+                <h2>Welcome to SCICON 2014</h2>
                 <hr>
                 <p>Institute of Engineering & Management in association with University of Engineering & Management Jaipur presents the <strong>1st International Science Conference</strong>, which will provide an opportunity for researchers, educators,and students to discuss and exchange ideas on issues, trends, and developments in various Scientific Areas. Research papers must clearly state the problem, objectives, methodology, results, and conclusion of the study. Accepted papers will be presented during the parallel sessions of the Conference and papers will be published in the Conference compendium. Special lectures by eminent speakers are arranged at the beginning of the technical sessions which will enable free interaction between students, scholars, teachers and academicians.</p>
                 <br>

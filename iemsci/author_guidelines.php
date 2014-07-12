@@ -40,7 +40,7 @@
                 <br>
                 <p>When preparing your paper, make sure to include the following information in the first page:</p>
                 <ul>
-                    <li>Conference Title: IEMSCI2014 1st International Science Conference</li>
+                    <li>Conference Title: SCICON 2014 1st International Science Conference</li>
                     <li>Title of the paper</li>
                     <li>Each author's name and affiliation, including present address:</li>
                     <li><ul><li> Follow this format to typesetting your author list: <br>

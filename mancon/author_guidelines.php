@@ -13,7 +13,7 @@
       <meta property="og:image:height" content="590" />
       <meta property="og:url" content="http://www.iemculturalfest.com"/>-->
       <meta name="keywords" content="iem,iem conference,iembiz 2014,iembiz2014,iemmancon 2014,business,management,iem mancon 2014"/>
-      <title>IEM MANCON '14</title>
+      <title>IEM BIZCON '14</title>
 
 
       <!-- Bootstrap core CSS -->
@@ -48,7 +48,7 @@
                 <br>
                 <p>When preparing your paper, make sure to include the following information in the first page:</p>
                 <ul>
-                    <li>Conference Title: IEM MANCON2014 Conference on Business & Management</li>
+                    <li>Conference Title: IEM BIZCON2014 Conference on Business & Management</li>
                     <li>Title of the paper</li>
                     <li>Each author's name and affiliation, including present address:</li>
                     <li><ul><li> Follow this format to typesetting your author list: <br>

@@ -36,13 +36,13 @@
                         <div class="panel-heading">
                           <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                              Brief Overview of IEMSCI 2014
+                              Brief Overview of SCICON 2014
                             </a>
                           </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse">
                           <div class="panel-body">
-                              <h3>IEMSCI 2014</h3>
+                              <h3>SCICON 2014</h3>
                               <h4>1st International Science Conference</h4>
                               <h5>Date : 29-30 August, 2014</h5>
                               <h5>Venue : Science City, Kolkata, India</h5>
@@ -76,14 +76,14 @@
                         <div class="panel-heading">
                           <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                              Technical Programs of IEMSCI 2014
+                              Technical Programs of SCICON 2014
                             </a>
                           </h4>
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse">
                           <div class="panel-body">
                               <ul>
-                                  <li><a href="#" target="_blank">Click here to download the Technical Session Details of IEMSCI 2014</a>.</li>
+                                  <li><a href="#" target="_blank">Click here to download the Technical Session Details of SCICON 2014</a>.</li>
                                        
                               </ul>
                               

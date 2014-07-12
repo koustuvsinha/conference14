@@ -5,8 +5,8 @@
                     <h4>Key Dates</h4>
                     <div id="keydates">
                     <ul>
-                        <li>Paper Submission Ends :<br> July 16, 2014</li>
-                        <li>Acceptance Notification :<br> July 31, 2014</li>
+                        <li>Paper Submission Ends :<br> July 31, 2014</li>
+                        <li>Acceptance Notification :<br> August 7, 2014</li>
                         <li>Camera Ready Paper :<br> August 10, 2014</li>
                         <li>Last Date of Registration :<br> August 10, 2014</li>
                         <li>Conference Date :<br> August 30-31, 2014</li>

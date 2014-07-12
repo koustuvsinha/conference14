@@ -120,8 +120,8 @@
                         <h3>Key Dates</h3>
                         <hr>
                         <table class="table table-hover table-bordered table-responsive">
-                            <tr class="danger"><td>Paper Submission (Full) Deadline</td><td>July 16, 2014</td></tr>
-                            <tr><td>Acceptance Notification</td><td>July 31, 2014</td></tr>
+                            <tr class="danger"><td>Paper Submission (Full) Deadline</td><td>July 31, 2014</td></tr>
+                            <tr><td>Acceptance Notification</td><td>August 7, 2014</td></tr>
                             <tr><td>Camera Ready Paper</td><td>August 10, 2014</td></tr>
                             <tr class="success"><td>Conference Date</td><td>August 28-29, 2014</td></tr>
                         </table>

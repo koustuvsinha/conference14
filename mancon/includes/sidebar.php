@@ -6,8 +6,8 @@
                         <div class="als-viewport">
                             <ul class="als-wrapper">
                                 <li class="als-item"><strong>Conference : 30-31st August, 2014</strong></li>
-                                <li class="als-item"><strong>Final Paper Submission : 16th July, 2014</strong></li>
-                                <li class="als-item"><strong>Acceptance Notification : 31th July, 2014</strong></li>
+                                <li class="als-item"><strong>Final Paper Submission : 31st July, 2014</strong></li>
+                                <li class="als-item"><strong>Acceptance Notification : 7th August, 2014</strong></li>
                                 <li class="als-item"><strong>Camera Ready Paper : 10th August, 2014</strong></li>
                             </ul>
                         </div>

@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="1st International Conference on Business & Management, organized by Institute of Engineering & Management, Kolkata on 30-31st August, 2014">
     <meta name="author" content="Institute of Engineering & Management">
-    <meta property="og:title" content="IEM MANCON 2014" />
+    <meta property="og:title" content="IEM BIZCON 2014" />
     <meta property="og:description" content="1st International Conference on Business & Management, organized by Institute of Engineering & Management, Kolkata on 30-31st August, 2014" />
     <!--<meta property="og:image" content="http://www.iemculturalfest.com/images/iemcf2.jpg" />
     <meta property="og:image:width" content="960" />  
     <meta property="og:image:height" content="590" />
     <meta property="og:url" content="http://www.iemculturalfest.com"/>-->
-    <meta name="keywords" content="iem,iem conference,iembiz 2014,iembiz2014,iemmancon 2014,business,management,iem mancon 2014"/>
-    <title>IEM MANCON '14</title>
+    <meta name="keywords" content="iem,iem conference,iembiz 2014,iembiz2014,iembizcon 2014,business,management,iem bizcon 2014"/>
+    <title>IEM BIZCON '14</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
@@ -36,7 +36,7 @@
     <div class="container main_body">
         <div class="row">
             <div class="col-md-9">
-                <h2>Welcome to IEM MANCON 2014</h2>
+                <h2>Welcome to IEM BIZCON 2014</h2>
                 <hr>
                 <p>Institute of Engineering & Management in association with University of Engineering & Management Jaipur presents the <strong>1st International Conference on Business & Management</strong>, which will provide an opportunity for researchers, educators,and students to discuss and exchange ideas on issues, trends, and developments in Business & Management. Research papers must clearly state the problem, objectives, methodology, results, and conclusion of the study. Accepted papers will be presented during the parallel sessions of the Conference and papers will be published in the Conference compendium. Special lectures by eminent speakers are arranged at the beginning of the technical sessions which will enable free interaction between students, scholars, teachers and academicians.</p>
                 <br>
